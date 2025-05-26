@@ -18,4 +18,4 @@ for i in range(len(nums)-1):
             if first_number + second_number == target:
                 print([nums[i],nums[a]])
                 a = 1
-                break#Done
+                break#Done code
